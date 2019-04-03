@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 29 07:22:38 2018
-
-@author: Raditya Nugraha
-"""
-
 import matplotlib.pyplot as mplt
 import numpy as np
 from ModulPolLagr import KoefLagr, HitungLagr, PoliLagr

@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar  8 10:25:21 2018
-
-@author: Raditya Nugraha
-"""
-
 def TinggiRoket(t):
     for t in range(0, 60):
         if t < 15:

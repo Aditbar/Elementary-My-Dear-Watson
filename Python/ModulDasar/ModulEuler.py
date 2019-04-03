@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr 19 09:59:33 2018
-
-@author: Raditya Nugraha
-"""
-
 import numpy as np
 
 def Euler(F, x, y, xakhir, h):

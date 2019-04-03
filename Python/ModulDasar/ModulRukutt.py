@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May 30 20:49:08 2018
-
-@author: Raditya Nugraha
-"""
-
 import numpy as np
 
 def rukut4(F, x, y, xAkhir, h):

@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 29 08:07:36 2018
-
-@author: Raditya Nugraha
-"""
-
 import sys
 import sympy as sym
 

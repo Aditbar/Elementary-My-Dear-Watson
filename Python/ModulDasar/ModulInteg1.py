@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 10 17:06:15 2018
-
-@author: Raditya Nugraha
-"""
-
-##Integrasi 1 Segmen
 def trapz1data(h, f0, f1):
     I = h*((f0 + f1)/2)
     return I

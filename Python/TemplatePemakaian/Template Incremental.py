@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 15 11:10:49 2018
-
-@author: Raditya Nugraha
-"""
-
 from ModulIncSearch import IncS
 import math
 

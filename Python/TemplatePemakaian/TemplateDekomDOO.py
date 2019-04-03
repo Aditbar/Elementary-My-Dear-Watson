@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Raditya Nugraha
-
-Tugas Kedua
-1 Maret 2018
-"""
-
 import numpy as np
 from ModulDekomDOO import DekomDOO, SolusiDOO
 

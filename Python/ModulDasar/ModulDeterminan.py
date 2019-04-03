@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar  7 17:42:43 2018
-
-@author: Raditya Nugraha
-"""
-
 import numpy as np
 from ModulDekomDOO import DekomDOO
 

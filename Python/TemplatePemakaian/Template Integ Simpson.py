@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 10 18:06:39 2018
-
-@author: Raditya Nugraha
-"""
-
 from ModulIntegSimp import simp13D, simp38D, simp13F, simp13nF
 import numpy as np
 

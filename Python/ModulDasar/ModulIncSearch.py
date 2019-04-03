@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 15 11:05:39 2018
-
-@author: Raditya Nugraha
-"""
-
 from numpy import sign
 
 def IncS(f, a, b, dx):

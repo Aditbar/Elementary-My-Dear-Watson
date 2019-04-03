@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 21 18:32:46 2018
-
-@author: Raditya Nugraha
-"""
-
 import numpy as np
 from ModulNewtNonl import newtnonl
 

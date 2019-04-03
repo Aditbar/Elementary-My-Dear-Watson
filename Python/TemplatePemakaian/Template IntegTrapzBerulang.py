@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr 12 08:13:06 2018
-
-@author: Raditya Nugraha
-"""
-
 from ModulTrapzBerulang import trapznB
 from math import exp
 import numpy as np

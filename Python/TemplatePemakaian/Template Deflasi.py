@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 29 08:43:43 2018
-
-@author: Raditya Nugraha
-"""
-
 import numpy as np
 from ModulLaguere import DefPol
 

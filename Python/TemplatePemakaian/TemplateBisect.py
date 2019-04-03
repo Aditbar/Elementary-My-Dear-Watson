@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 15 10:56:55 2018
-
-@author: Raditya Nugraha
-"""
-
 from ModulBisect import bisect
 import math
 

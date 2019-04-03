@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 29 08:36:17 2018
-
-@author: Raditya Nugraha
-"""
-
 def HtgPol(a, x):
     n = len(a) - 1
     p = a[n]

@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 10 18:15:49 2018
-
-@author: Raditya Nugraha
-"""
-
 def trapznB(f, a, b, akurasi, segmen = 0):
     def trapznFB(f, a, b, k, lseb = 0.0):
         if k == 1:

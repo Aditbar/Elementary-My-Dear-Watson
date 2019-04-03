@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 10 17:48:54 2018
-
-@author: Raditya Nugraha
-"""
-
 import sys
 
 def simp13D(f, h):

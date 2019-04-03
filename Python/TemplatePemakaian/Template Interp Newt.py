@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 29 08:16:09 2018
-
-@author: Raditya Nugraha
-"""
-
 import numpy as np
 from ModulPolNewt import HtgNewt, KoefNewt, PolNewt
 

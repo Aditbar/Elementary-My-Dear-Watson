@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 15 10:36:59 2018
-
-@author: Raditya Nugraha
-"""
-
 import math as m
 import sys
 from numpy import sign

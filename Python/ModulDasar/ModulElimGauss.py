@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Mar  5 06:51:58 2018
-
-@author: Raditya Nugraha
-"""
-
 import sys
 import numpy as np
 import ModulTukarElemen as Menukar

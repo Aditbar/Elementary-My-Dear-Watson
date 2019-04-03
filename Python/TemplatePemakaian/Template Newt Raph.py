@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 15 11:20:59 2018
-
-@author: Raditya Nugraha
-"""
-
 from ModulNewtRaph import NewtRaph
 
 def f(x):

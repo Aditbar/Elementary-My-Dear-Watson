@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Apr 15 21:41:06 2018
-
-@author: Raditya Nugraha
-"""
-
 import numpy as np
 
 def err(DiffNum, Analitik):

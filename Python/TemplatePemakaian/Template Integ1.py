@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 10 17:18:06 2018
-
-@author: Raditya Nugraha
-"""
-
 from ModulInteg1 import trapz1data, trapz1fungsi, trapzndata, trapznfungsi
 import numpy as np
 import math as m

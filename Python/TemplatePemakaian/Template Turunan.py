@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr 16 15:01:12 2018
-
-@author: Raditya Nugraha
-"""
-
 import numpy as np
 from ModulTurunanPert import Diff1Forw, Diff1Mid, Diff1Back, Diff1Rich
 

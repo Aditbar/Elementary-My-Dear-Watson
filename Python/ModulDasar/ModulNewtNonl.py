@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 21 18:24:26 2018
-
-@author: Raditya Nugraha
-"""
-
 import numpy as np
 from ModulElimGauss import ElimGauss
 import math

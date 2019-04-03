@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 29 07:08:56 2018
-
-@author: Raditya Nugraha
-"""
-
 import numpy as np
 import sys
 import sympy as sym

@@ -18,8 +18,6 @@ Learn from basic
   sum :: (Foldable t, Num a) => t a -> a
   ```
   try to make another same sum function with another name
- 3. .....
- 4. .....
 
 ## Assigment to Pandas
 1. Install anaconda
